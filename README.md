@@ -1,7 +1,7 @@
 # Git & GitHub Practice Repository
 
 ## 📌 About This Repository
-This repository was created **for academic lab practice purposes** to learn and become familiar with:
+This repository was created **for  University academic lab practice purposes** to learn and become familiar with:
 
 - Git basics
 - GitHub workflow
