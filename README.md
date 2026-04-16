@@ -13,6 +13,8 @@ This repository was created **for  University academic lab practice purposes** t
 
 It is **not a real-world or production project**.
 
+This is **University Academic project**
+
 ---
 
 ## 🎯 Purpose
